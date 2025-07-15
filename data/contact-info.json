@@ -1,0 +1,30 @@
+[
+  {
+    "icon": "📧",
+    "title": "Email",
+    "value": "hello@EnterPlayZone.com",
+    "link": "mailto:hello@EnterPlayZone.com",
+    "linkText": "Send Email"
+  },
+  {
+    "icon": "📞",
+    "title": "Phone",
+    "value": "+1 403-268-2489",
+    "link": "tel:+1 403-268-2489",
+    "linkText": "Call Us"
+  },
+  {
+    "icon": "📍",
+    "title": "Address",
+    "value": "200 8 Ave SW, Calgary, AB T2P 1B5, Canada",
+    "link": "#",
+    "linkText": "View on Map"
+  },
+  {
+    "icon": "🕒",
+    "title": "Business Hours",
+    "value": "Monday - Friday: 9:00 AM - 6:00 PM (JST)",
+    "link": null,
+    "linkText": null
+  }
+]

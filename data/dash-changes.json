@@ -1,0 +1,51 @@
+[
+  {
+    "title": "Version 2.1.0 - Financial Engine Overhaul",
+    "date": "December 15, 2024",
+    "description": "Complete redesign of the investment algorithms for smarter, more dynamic wealth growth.",
+    "details": [
+      "Enhanced market crash prediction with rebound strategies",
+      "New asset diversification system with 12 portfolio types",
+      "Improved mobile banking with transaction alerts",
+      "Optimized performance for low-end devices",
+      "Added 5 new investment tiers with unique risks/rewards"
+    ],
+    "type": "major"
+  },
+  {
+    "title": "Bug Fixes & Stability",
+    "date": "December 10, 2024",
+    "description": "Resolved critical issues and improved banking system reliability.",
+    "details": [
+      "Fixed rare freeze during stock market surges",
+      "Resolved interest calculation delays on iOS",
+      "Reduced app loading time by 30%",
+      "Fixed visual glitch in net worth display"
+    ],
+    "type": "update"
+  },
+  {
+    "title": "New Investment Strategies",
+    "date": "December 5, 2024",
+    "description": "Introducing powerful new tools to maximize your financial empire.",
+    "details": [
+      "Market Freeze: Temporarily locks asset values",
+      "Compound Boost: Accelerates interest accumulation",
+      "Dividend Surge: Grants bonus payouts",
+      "Short Sell: Profit from declining markets"
+    ],
+    "type": "feature"
+  },
+  {
+    "title": "Portfolio Designer Beta",
+    "date": "November 28, 2024",
+    "description": "Craft custom investment portfolios with our new design tool.",
+    "details": [
+      "Drag-and-drop asset allocation interface",
+      "Share portfolios with other investors",
+      "Rate top-performing financial strategies",
+      "Weekly trading challenges with bonus rewards"
+    ],
+    "type": "beta"
+  }
+]

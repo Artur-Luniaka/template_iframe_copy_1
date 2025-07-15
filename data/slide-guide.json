@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Basic Banking",
+    "description": "Master the fundamental operations to grow your financial empire.",
+    "tips": [
+      "Click to invest in basic assets",
+      "Swipe to adjust investment allocations",
+      "Hold to reinvest profits automatically",
+      "Release to pause investments temporarily"
+    ]
+  },
+  {
+    "title": "Market Timing",
+    "description": "Learn to control your investment pace for optimal returns.",
+    "tips": [
+      "Aggressively invest during bull markets",
+      "Use compound interest to grow wealth exponentially",
+      "Slow investments before market corrections",
+      "Activate economic boosts for temporary high returns"
+    ]
+  },
+  {
+    "title": "Risk Management",
+    "description": "Develop the skills to navigate financial challenges.",
+    "tips": [
+      "Watch for market volatility indicators",
+      "Time your trades precisely for maximum profit",
+      "Use diversified portfolios to mitigate losses",
+      "Plan long-term strategies for steady growth"
+    ]
+  },
+  {
+    "title": "Investment Strategy",
+    "description": "Maximize your net worth with strategic financial decisions.",
+    "tips": [
+      "Collect dividend payouts for passive income",
+      "Save high-yield investments for economic booms",
+      "Use safety nets when portfolio value drops",
+      "Chain successful investments for wealth multipliers"
+    ]
+  }
+]
