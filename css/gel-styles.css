@@ -681,7 +681,7 @@ body {
   margin: 0;
   padding: 0;
   flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: center;
 }
 
 .nav-link {
@@ -1725,7 +1725,7 @@ body {
     flex-direction: row;
     gap: 1rem;
     flex-wrap: wrap;
-    justify-content: space-between;
+    justify-content: center;
   }
 
   .nav-link {
